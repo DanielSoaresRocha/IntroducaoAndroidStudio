@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TesteDaltonismo</string>
+    <string name="titulo">O que é</string>
+    <string name="subtitulo">Daltonismo, também conhecido como discromatopsia ou discromopsia, é uma perturbação da percepção visual caracterizada pela incapacidade de diferenciar todas ou algumas cores, manifestando-se muitas vezes pela dificuldade em distinguir o verde do vermelho</string>
+    <string name="fa_a_seu_teste">Faça seu teste!</string>
+    <string name="teste_1">Teste 1</string>
+    <string name="teste_2">Teste 2</string>
+    <string name="teste_3">Teste 3</string>
+    <string name="verificar">Verificar</string>
+    <string name="resposta_1">resposta 1</string>
+    <string name="resposta_2">resposta 2</string>
+    <string name="resposta_3">resposta 3</string>
+    <string name="resultado">Resultado</string>
+    <string name="tituloNumber">Qual numero você ve abaixo?</string>
+    <string name="name">Name</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">cancelar</string>
+    <string name="_0">0</string>
+    <string name="__0">0</string>
+    <string name="___0">0</string>
+</resources>
